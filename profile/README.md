@@ -8,3 +8,4 @@ Welcome to our official github! We post all of our competition code at the end o
 
  - [2022 - Stacy](https://github.com/7426-Pair-Of-Dice/FRC-2022-Stacy)
  - [2023 - Gustavo](https://github.com/7426-Pair-Of-Dice/FRC-2023-Gustavo) 
+ - [2024 - Mad Maxx](https://github.com/7426-Pair-Of-Dice/FRC-2024-MadMaxx)
